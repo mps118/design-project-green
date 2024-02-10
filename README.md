@@ -65,7 +65,7 @@ In this milestone, we are formalizing our project idea by creating our project c
     </tr>
     <tr>
         <td>Project Manager:</td>
-        <td>Vanessa Coote</td>
+        <td>Robert Beautelus</td>
         <td>Exec. Management</td>
         <td></td>
         <td></td>
@@ -79,21 +79,21 @@ In this milestone, we are formalizing our project idea by creating our project c
     </tr>
     <tr>
         <td></td>
-        <td>Jasmine Carter</td>
+        <td>Miles Sharpton</td>
         <td>Development</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Michael Thompson</td>
+        <td>Jeremy Metellus</td>
         <td>Design</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Melissa Tate</td>
+        <td>Thurgood Watson</td>
         <td>Management</td>
         <td></td>
         <td></td>
@@ -127,12 +127,17 @@ In this milestone, we are formalizing our project idea by creating our project c
         <td></td>      
     </tr>
     <tr>
-    
-     
+        <td colspan="5" style="font-weight:bold; background-color:#F4811F">3. Stakeholders (e.g., those with a significant interest in or who will be significantly affected by this project)</td>  
+    </tr>
+    <tr rowspan="4">
+        <td colspan="5">WIN Belize, National Women's Commision of Belize (NWC), UN Development Program (UNDP) Belize
+Inspiration Center, Women's Department Belize, Family Violence Prevention Project (FVPP), Belize Family Life Association (BFLA), Ministry of Health, National AIDS Commission, Belize Police Department, UNICEF, General Public</td> 
+    </tr>
+    <tr>
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">4. Project Scope Statement</td>
     </tr>
     <tr>
-    <td colspan="5">Project Purpose / Business Justification Describe the business need this project addresses</td>  
+        <td colspan="5">Project Purpose / Business Justification Describe the business need this project addresses</td>  
     </tr>
     <tr>
         <td colspan="5">To provide a comprehensive knowledge base system to empower women and advocate for their well-being</td>  
@@ -149,7 +154,7 @@ In this milestone, we are formalizing our project idea by creating our project c
                 <li>Develop and implement at least 5 different report templates covering various aspects of women's issues, health,and employment.</li>
             </ol>
         </td>
-        </tr>
+    </tr>
     <tr>
         <td colspan="5">Deliverables List the high-level "products" to be created (e.g., improved xxxx process, employee manual on yyyy)</td>
     </tr>
@@ -168,7 +173,7 @@ In this milestone, we are formalizing our project idea by creating our project c
     Development and integration of a data accessibility dashboard by <time datetime="2024-04-15">04/15/2024</time>, showcasing the 30% improvement in retrieval speed.
   </li>
   <li>
-  Completion and distribution of a comprehensive training manual for employees by <time datetime="2024-04-30">04/30/2024</time>, ensuring efficient use of the knowledge management system.
+    Completion and distribution of a comprehensive training manual for employees by <time datetime="2024-04-30">04/30/2024</time>, ensuring efficient use of the knowledge management system.
   </li>
 </ol>
 </td>
@@ -209,7 +214,7 @@ In this milestone, we are formalizing our project idea by creating our project c
                 <li>Delivery (01/16/2024 - 03/15/2024)</li>
             </ul>
         </td>
-        </tr>
+    </tr>
     <tr>
         <td colspan="5">Major Known Risks (including significant Assumptions) Identify obstacles that may cause the project to fail.   </td>
     </tr>
@@ -230,7 +235,7 @@ In this milestone, we are formalizing our project idea by creating our project c
                 </tr>
                 <tr>
                     <td>Resource constraints</td>
-                     <td>Med</td>
+                    <td>Med</td>
                 </tr>
                 <tr>
                     <td>Access to existing data</td>
@@ -264,7 +269,7 @@ In this milestone, we are formalizing our project idea by creating our project c
         </td>
     </tr>
     <tr>
-    <td colspan="5" style="font-weight:bold; background-color:#F4811F" >5. Communication Strategy (specify how the project manager will communicate to the Executive Sponsor, Project Team members and Stakeholders, e.g., frequency of status reports, frequency of Project Team meetings, etc.</td>   
+        <td colspan="5" style="font-weight:bold; background-color:#F4811F" >5. Communication Strategy (specify how the project manager will communicate to the Executive Sponsor, Project Team members and Stakeholders, e.g., frequency of status reports, frequency of Project Team meetings, etc.</td>   
     </tr>
     <tr rowspan="3">
         <td colspan="5" >
@@ -285,7 +290,7 @@ In this milestone, we are formalizing our project idea by creating our project c
                     </ul>
                 </li>
             </ul>
-            </td>
+        </td>
     </tr>
     <tr>
         <td colspan="5" >6. Sign-off</td>
@@ -308,7 +313,7 @@ In this milestone, we are formalizing our project idea by creating our project c
         <td>Melissa Tate</td>
         <td><i>Signed in document</i></td>
         <td>10/01/2023</td> 
-        </tr>
+    </tr>
     <tr>
         <td colspan="2" >Project Manager</td>
         <td>Vanessa Coote</td>
@@ -328,7 +333,7 @@ In this milestone, we are formalizing our project idea by creating our project c
                 <strong>Regular Progress Assessments:</strong> Implement periodic assessments to measure progress against objectives, making adjustments to the project plan as needed to ensure successful delivery.
             </li>
             <li>
-            <strong>User Feedback Incorporation:</strong> Actively seek feedback from end-users during system development to incorporate improvements that align with their needs and expectations.
+                <strong>User Feedback Incorporation:</strong> Actively seek feedback from end-users during system development to incorporate improvements that align with their needs and expectations.
             </li>
         </ul>
         <p><a href="https://github.com/cis-famu/capstone-project-design-exemplar/documents/Project+Charter.pdf" target="_blank">Download Signed Copy</a></p>
@@ -343,6 +348,7 @@ In this milestone, we are formalizing our project idea by creating our project c
 1. Expertise in knowledge management: The organization possesses specialized knowledge and expertise in developing knowledge management tools specifically tailored for non-profit organizations like the Women's Issues Network of Belize. This expertise gives them a competitive edge in understanding the unique needs and challenges faced by non-profits in managing knowledge effectively.
 
 2. Niche market focus: The organization's focus on providing knowledge management tools exclusively for non-profit organizations, particularly those dealing with women's issues, allows them to target a specific and underserved market. This specialization can help them build a strong reputation and establish themselves as a trusted resource in the field.
+
 3. Strategic partnerships: Collaborations with other non-profit organizations, academic institutions, or industry experts can strengthen the organization's capabilities and broaden their network. These partnerships can facilitate knowledge sharing, research collaborations, and access to additional resources.
 
 ### Weaknesses:
@@ -359,7 +365,6 @@ In this milestone, we are formalizing our project idea by creating our project c
 1. Competition from commercial vendors: The organization may face competition from commercial vendors offering general knowledge management tools. These vendors may have larger budgets, extensive resources, and established brand recognition, making it challenging to differentiate and compete effectively.
 
 2. Rapidly evolving technology: The fast-paced nature of technology can be a threat, as it requires continuous adaptation and investment to keep up with emerging trends and maintain compatibility with evolving systems. Failure to keep pace with technology advancements may render the organization's tools obsolete or less effective over time.
-
-## Budget, Scope, & Time estimates
-
-### Scope & Time Estimate
+    
+     
+     
