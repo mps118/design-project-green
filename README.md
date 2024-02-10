@@ -38,20 +38,19 @@ In this milestone, we are formalizing our project idea by creating our project c
     </tr>
     <tr>
         <td colspan="2" >Project Name: </td>
-        <td colspan="3" >WIN Belize Knowledge Managment System</td>    
+        <td colspan="3" >Pet-Med</td>    
         </tr>
     <tr>
         <td colspan="2">Executive Sponsors: </td>
-        <td colspan="3">Dianne Smith</td>
+        <td colspan="3">American Kennel Club</td>
     </tr>
     <tr>
         <td colspan="2">Department Sponsor: </td>
-        <td colspan="3">Melissa Tate</td>
+        <td colspan="3">Vanessa Coote</td>
     </tr>
     <tr>
         <td colspan="2">Impact of project:</td>
-        <td colspan="3">To enhance information management and facilitate data-driven decision-making on
-women's issues, health, and employment.</td>
+        <td colspan="3">To provide meaningful solutions that improve the quality of life for dogs.</td>
     </tr>
     <tr>
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">2. Project Team</td>
@@ -65,9 +64,9 @@ women's issues, health, and employment.</td>
     </tr>
     <tr>
         <td>Project Manager:</td>
-        <td>Vanessa Coote</td>
+        <td>Robert Beautelus</td>
         <td>Exec. Management</td>
-        <td></td>
+        <td>Thurgood Watson</td>
         <td></td>
     </tr>
     <tr>
@@ -79,54 +78,26 @@ women's issues, health, and employment.</td>
     </tr>
     <tr>
         <td></td>
-        <td>Jasmine Carter</td>
+        <td>Miles Sharpton</td>
         <td>Development</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Michael Thompson</td>
+        <td>Jeremy Metellus</td>
         <td>Design</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Melissa Tate</td>
+        <td>Thurgood Watson</td>
         <td>Management</td>
         <td></td>
         <td></td>
     </tr>
-    <tr>
-    <td></td>
-        <td>Melanie Smith</td>
-        <td>coporate Relations</td>
-        <td></td>
-        <td></td>  
-    </tr>
-    <tr>
-        <td></td>
-        <td>Dietrick Butler</td>
-        <td>VP Engineering</td>
-        <td></td>
-        <td></td>       
-    </tr>
-    <tr>
-        <td></td>
-        <td>Xishel Hyde</td>
-        <td>Graphic Design Lead</td>
-        <td></td>
-        <td></td>      
-    </tr>
-    <tr>
-        <td></td>
-        <td>Lloyda Fairweather</td>
-        <td>Training Unit</td>
-        <td></td>
-        <td></td>      
-    </tr>
-    <tr>
+    
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">3. Stakeholders (e.g., those with a significant interest in or who will be significantly affected by this project)</td>  
     </tr>
     <tr rowspan="4">
