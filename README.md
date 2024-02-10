@@ -53,7 +53,8 @@ In this milestone, we are formalizing our project idea by creating our project c
         <td colspan="3">To provide meaningful solutions that improve the quality of life for dogs.</td>
     </tr>
     <tr>
-        <td colspan="5" style="font-weight:bold; background-color:#F4811F">2. Project Team</td>
+    <td colspan="5" style="font-weight:bold; background-color:#F4811F">2. 
+    Project Team</td>
     </tr>
     <tr>
         <td></td>
@@ -64,9 +65,9 @@ In this milestone, we are formalizing our project idea by creating our project c
     </tr>
     <tr>
         <td>Project Manager:</td>
-        <td>Robert Beautelus</td>
+        <td>Vanessa Coote</td>
         <td>Exec. Management</td>
-        <td>Thurgood Watson</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>
@@ -78,26 +79,26 @@ In this milestone, we are formalizing our project idea by creating our project c
     </tr>
     <tr>
         <td></td>
-        <td>Miles Sharpton</td>
+        <td>Jasmine Carter</td>
         <td>Development</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Jeremy Metellus</td>
+        <td>Michael Thompson</td>
         <td>Design</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Thurgood Watson</td>
+        <td>Melissa Tate</td>
         <td>Management</td>
         <td></td>
         <td></td>
     </tr>
-     <tr>
+    <tr>
         <td></td>
         <td>Melanie Smith</td>
         <td>coporate Relations</td>
@@ -127,13 +128,7 @@ In this milestone, we are formalizing our project idea by creating our project c
     </tr>
     <tr>
     
-        <td colspan="5" style="font-weight:bold; background-color:#F4811F">3. Stakeholders (e.g., those with a significant interest in or who will be significantly affected by this project)</td>  
-    </tr>
-    <tr rowspan="4">
-        <td colspan="5">WIN Belize, National Women's Commision of Belize (NWC), UN Development Program (UNDP) Belize
-Inspiration Center, Women's Department Belize, Family Violence Prevention Project (FVPP), Belize Family Life Association (BFLA), Ministry of Health, National AIDS Commission, Belize Police Department, UNICEF, General Public</td> 
-    </tr>
-    <tr>
+     
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">4. Project Scope Statement</td>
     </tr>
     <tr>
