@@ -20,6 +20,35 @@ In this section we summarize each milestone and link to a more detail document o
 
 ## Milestone 1
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
-[Milestone 1 Details](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/milestone-1.md)
+
+
+**Table of Contents**
+1. [Project Charter](#project-charter)
+2. [SWOT Analysis](#swot-analysis)
+3. [Budget, Score, & Time Estimates](#budget-scope--time-estimates)
+4. [Team Contract](#team-contract)
+5. [References](#references)
+
+
+## Project Charter
+
+<table>
+    <tr>
+        <td colspan="5" style="font-weight:bold; background-color:#F4811F">1. General Project Information</td>
+    </tr>
+    <tr>
+        <td colspan="2" >Project Name: </td>
+        <td colspan="3" >WIN Belize Knowledge Managment System</td>    
+        </tr>
+    <tr>
+        <td colspan="2">Executive Sponsors: </td>
+        <td colspan="3">Dianne Smith</td>
+    </tr>
+    <tr>
+        <td colspan="2">Department Sponsor: </td>
+        <td colspan="3">Melissa Tate</td>
+    </tr>
+    <tr>
+        <td colspan="2">Impact of project:</td>
 
 
