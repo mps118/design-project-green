@@ -50,7 +50,7 @@ In this milestone, we are formalizing our project idea by creating our project c
     </tr>
     <tr>
         <td colspan="2">Impact of project:</td>
-        <td colspan="3">To provide meaningful solutions that improve the quality of life for dogs.</td>
+        <td colspan="3">Our main priority is to achieve improved pet health and well-being for dogs globally, along with increased user engagement so that owners can utilize the app for various health-related needs. </td>
     </tr>
     <tr>
     <td colspan="5" style="font-weight:bold; background-color:#F4811F">2. 
@@ -102,8 +102,7 @@ In this milestone, we are formalizing our project idea by creating our project c
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">3. Stakeholders (e.g., those with a significant interest in or who will be significantly affected by this project)</td>  
     </tr>
     <tr rowspan="4">
-        <td colspan="5">WIN Belize, National Women's Commision of Belize (NWC), UN Development Program (UNDP) Belize
-Inspiration Center, Women's Department Belize, Family Violence Prevention Project (FVPP), Belize Family Life Association (BFLA), Ministry of Health, National AIDS Commission, Belize Police Department, UNICEF, General Public</td> 
+        <td colspan="5">Humane Society, American Kennel Club, Save-A-Pet USA, Pet Helpers</td> 
     </tr>
     <tr>
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">4. Project Scope Statement</td>
@@ -112,7 +111,7 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
         <td colspan="5">Project Purpose / Business Justification Describe the business need this project addresses</td>  
     </tr>
     <tr>
-        <td colspan="5">To provide a comprehensive knowledge base system to empower women and advocate for their well-being</td>  
+        <td colspan="5">To provide meaningful solutions that improve the quality of life for dogs.</td>  
     </tr>
     <tr>
         <td colspan="5">Objectives (in business terms) Describe the measurable outcomes of the project, e.g., reduce cost by xxxx or increase quality to yyyy</td>
@@ -120,10 +119,15 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
     <tr>
         <td colspan="5">
             <ol>
-                <li>Achieve a 30% increase in data retrieval speed compared to the existing manual system</li>
-                <li>Reduce data entry time by 25% compared to the previous data input processes.
+                <li>Launch 5 new probiotic formulations tailored to specific health needs of dogs within the next year.</li>
+                <li>Implement 3 improvements to the user-friendly application to enhance customer experience within the next six months.
                 </li>
-                <li>Develop and implement at least 5 different report templates covering various aspects of women's issues, health,and employment.</li>
+                <li>Expand distribution channels to 3 new pet supply stores or retail outlets within the next year.</li>
+                <li>Increase online presence and engagement by achieving 40% growth in social</li>
+                <li>Maintain a customer satisfaction rating of 70% or higher based on feedback surveys within the next year.</li>
+                <li>Resolve 85% of customer inquiries or issues within 24 hours to ensure prompt and effective support.</li>
+                <li>Ensure all products meet federal and state regulations concerning pet pharmaceuticals at all times.</li>
+                <li>Sponsor or participate in 4 pet-related events or trade shows to showcase Pet-Med Inc products and services within the next quarter.</li>
             </ol>
         </td>
     </tr>
@@ -133,19 +137,20 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
     <tr rowspan="5">
         <td colspan="5"><ol>
   <li>
-    Prototype completion by <time datetime="2023-12-15">12/15/2023</time>, featuring basic functionalities and interfaces.
+    Prototype completion by <time datetime="2024-2-30">4/30/2024</time>, featuring basic functionalities and interfaces.
   </li>
   <li>
-    Fully functional streamlined data entry interface by <time datetime="2024-02-15">02/15/2024</time>, reducing data entry time by 25%.
+    Implement improvements to the Pet-Med Inc application by <time datetime="2024-4-24">4/14/2024</time>  to enhance the user experience, including navigation, product search, and checkout process.
   </li>
   <li>
-    At least 5 fully designed and functional report templates by <time datetime="2024-03-15">03/15/2024</time>, covering key aspects of women's issues, health, and employment.
+    A fully designed and functional report templates by <time datetime="2024-5-14">05/14/2024</time>, covering financail reports, revenue streams, profitability, and cash flow.
   </li>
   <li>
-    Development and integration of a data accessibility dashboard by <time datetime="2024-04-15">04/15/2024</time>, showcasing the 30% improvement in retrieval speed.
+    Develop a plan to expand distribution channels by <time datetime="2024-05-31">05/31/2024</time>,  to 2 new pet supply stores or retail outlets, including negotiations, logistics, and implementation strategies.
+ 
   </li>
   <li>
-    Completion and distribution of a comprehensive training manual for employees by <time datetime="2024-04-30">04/30/2024</time>, ensuring efficient use of the knowledge management system.
+    Secure media coverage and mentions in industry publications or websites by <time datetime="2024-06-10">06/10/2024</time>, to raise awareness of Pet-Med Inc products and services.
   </li>
 </ol>
 </td>
@@ -156,21 +161,21 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
     <tr rowspan="2">
         <td colspan="5">
         <p>
-  The project will focus on developing a knowledge management system that addresses data related to violence against women, health issues, and employment within the Women's Issues Network of Belize. This encompasses:
+  The project scope for Pet-Med Inc encompasses the development and enhancement of products, processes, and strategies aimed at improving the company's position in the pet pharmaceutical market. This encompasses:
 </p>
 <ul>
-  <li>Database design and implementation for storing data related to specified areas.</li>
-  <li>User interface development for streamlined data entry and retrieval.</li>
-  <li>Integration of reporting functionalities for comprehensive analysis and insights.</li>
-  <li>Ensure that all data entered into the system is securely stored and compliant with relevant privacy and security regulations.</li>
+  <li>Develop new probiotic formulations tailored for dogs and puppies to address specific health needs, such as digestive health and immune support.</li>
+  <li>Enhance the user experience of the Pet-Med Inc application by implementing improvements in navigation, product search functionality, and checkout process.</li>
+  <li>Create and execute marketing and advertising campaigns to increase brand awareness and promote Pet-Med Inc products across various channels, including social media, email newsletters, and targeted advertisements.</li>
+  <li>Implement rigorous quality control measures to guarantee the safety, efficacy, and consistency of pharmaceutical products manufactured by Pet-Med Inc.</li>
 </ul>
 <p>
   The project will not cover broader aspects outside the defined scope, including:
 </p>
 <ul>
-  <li>Integration with external systems not directly related to women's issues, health, or employment.</li>
-  <li>Development of features unrelated to the specified objectives.</li>
-  <li>Extensive hardware upgrades or network infrastructure modifications.</li>
+  <li>The project will not address the development or production of pharmaceuticals other than probiotics for dogs and puppies.</li>
+  <li> it will not address detailed sales and distribution logistics such as inventory management or shipping operations.</li>
+  <li>The project will not address advanced research and development activities beyond the development of new probiotic formulations specifically tailored for dogs and puppies.</li>
 </ul>
         </td>
     </tr>
@@ -180,10 +185,14 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
     <tr rowspan="2">
         <td colspan="5">
             <ul>
-                <li>Inception (10/01/2023 - 10/15/2023)</li>
-                <li>Planning (10/16/2023 - 11/15/2023)</li>
-                <li>Construction (11/16/2023 - 01/15/2024)</li>
-                <li>Delivery (01/16/2024 - 03/15/2024)</li>
+                <li>Inception (1/10/2024 - 2/15/2024)</li>
+                <li>Planning (2/16/2024 - 4/30/2024)</li>
+                <li>Product Development Phase (5/1/2024 - 7/15/2024)</li>
+                <li>Application Enhancement (07/16/2024 - 09/30/2024)</li>
+                <li>Distribution Expansion (01/1/2025 - 03/15/2025)</li>
+                <li>Strategic Growth Planning (08/16/2025 - 11/30/2025)</li>
+                <li>Strategic Growth Planning (12/1/2025 - 1/30/2026)</li>
+              
             </ul>
         </td>
     </tr>
@@ -198,19 +207,19 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
                     <td>Risk Rating <small>(Hi, Med, Lo)</small></td>
                 </tr>
                 <tr>
-                    <td>Data privacy breaches</td>
+                    <td>Customer Adoption and Acceptance</td>
                     <td>Med</td>
                 </tr>
                 <tr>
-                    <td>Integration challenges</td>
+                    <td>Availability of Skilled Workforce</td>
                     <td>Med</td>
                 </tr>
                 <tr>
-                    <td>Resource constraints</td>
-                    <td>Med</td>
+                    <td>Stable Economics Conditions</td>
+                    <td>Hi</td>
                 </tr>
                 <tr>
-                    <td>Access to existing data</td>
+                    <td>Effective Communication and Collaboration</td>
                     <td>Hi</td>
                 </tr>
             </table>
@@ -222,9 +231,9 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
     <tr rowspan="2">
         <td colspan="5" >
             <ul>
-                <li><strong>Budget Constraint:</strong> The project is constrained by a predetermined budget of $500,000, which must not be exceeded during the entire project lifecycle.</li>
-                <li><strong>Time Constraint:</strong> The project must be completed within the stipulated timeline, with a hard end date of 03/15/2024. Any delays could have significant adverse effects on project success.</li>
-                <li><strong>Resource Constraint:</strong> The project team is limited to a maximum of 10 full-time staff members due to resource availability and budget constraints.</li>
+                <li><strong>Budget Limitations:</strong> The project may have a predetermined budget allocated for various activities, such as product development, marketing, and distribution expansion. This budget constraint may limit the team's options regarding resource allocation and spending.</li>
+                <li><strong>Project Timeline:</strong> There may be a fixed project end date or timeline within which the project must be completed. This constraint could impact the team's ability to extend project duration or add additional phases beyond the established timeline.</li>
+                <li><strong>Resource Availability:</strong> The availability of resources, including personnel, equipment, and materials, may be limited. This constraint could affect the team's options for scaling up activities or implementing additional project tasks that require additional resources.</li>
             </ul>
         </td>
     </tr>
@@ -234,9 +243,9 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
     <tr rowspan="2">
         <td colspan="5" >
             <ul>
-                <li><strong>Integration with Existing Systems:</strong> The success of the project depends on effective coordination with the IT department and their support in integrating the knowledge management system with existing organizational databases and systems.</li>
-                <li><strong>Data Sourcing from Partner Organizations:</strong> Successful collaboration with external organizations is crucial to obtain accurate and up-to-date data related to women's issues, health, and employment for integration into the knowledge base system.</li>
-                <li><strong>Stakeholder Training and Involvement:</strong> The project success is highly dependent on the active involvement and training of stakeholders (WIN employees and partners) in effectively utilizing the new system.</li>
+                <li><strong>Integration with Existing Systems:</strong> Yes, project success for Pet-Med Inc may depend on coordination of efforts between the project team and various external individuals or groups.</li>
+                <li><strong>Regulatory Authorities:</strong> Compliance with regulatory requirements is essential for the sale and distribution of pet pharmaceuticals. Pet-Med Inc must coordinate with regulatory authorities to obtain necessary approvals, licenses, and certifications.</li>
+                <li><strong>Research Institutions or Experts:</strong> Collaboration with research institutions or experts in veterinary science and probiotics may be necessary for product development, formulation, and validation. Coordination with these external entities facilitates access to specialized knowledge and expertise.
             </ul>
         </td>
     </tr>
@@ -249,16 +258,17 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
                 <li>
                     <strong>Project Manager Communication:</strong>
                     <ul>
-                    <li>Weekly project update meetings</li>
-                    <li>Bi-weekly status reports to Executive and Department Sponsors</li>
-                    <li>Ad-hoc communication as needed</li>
+                    <li>Regular Updates</li>
+                    <li>Key Decision Points</li>
+                    <li>Collaboration Platforms</li>
                     </ul>
                 </li>
                 <li>
                     <strong>Stakeholder Communication:</strong>
                     <ul>
-                    <li>Monthly progress reports highlighting achievements and challenges</li>
-                    <li>Quarterly presentations to stakeholders</li>
+                    <li>Regular Updates and Reports </li>
+                   <li>Quarterly presentations to stakeholders</li>
+                   <li>Feedback Channels</li>
                     </ul>
                 </li>
             </ul>
@@ -276,20 +286,20 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
     </tr>
     <tr>
         <td colspan="2" >Executive Sponsor</td>
-        <td>Dianne Smith</td>
+        <td>American Kennel CLub</td>
         <td><i>Signed in document</i></td>
         <td>10/01/2023</td>
     </tr>
     <tr>
         <td colspan="2" >Department Sponsor</td>
-        <td>Melissa Tate</td>
+        <td>Teja Palance</td>
         <td><i>Signed in document</i></td>
         <td>10/01/2023</td> 
     </tr>
     <tr>
         <td colspan="2" >Project Manager</td>
         <td>Vanessa Coote</td>
-        <td><i>Signed in document</i></td>
+        <td><i></i></td>
         <td>10/01/2023</td>  
     </tr>
     <tr>
@@ -299,13 +309,13 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
         <td colspan="5" >
         <ul>
             <li>
-                <strong>Interdepartmental Collaboration:</strong> Foster a collaborative culture between departments involved in the project to ensure a cohesive and well-integrated system that meets the diverse needs of the organization.
+                <strong>Transparent Documentation:</strong> Maintain transparent documentation of project plans, progress reports, meeting minutes, and decisions made for reference and accountability.
             </li>
             <li>
-                <strong>Regular Progress Assessments:</strong> Implement periodic assessments to measure progress against objectives, making adjustments to the project plan as needed to ensure successful delivery.
+                <strong>Emergency Communication Plan:</strong> Develop an emergency communication plan to address urgent issues, crises, or unexpected events that may arise during the project.
             </li>
             <li>
-                <strong>User Feedback Incorporation:</strong> Actively seek feedback from end-users during system development to incorporate improvements that align with their needs and expectations.
+                <strong>Ad Hoc Communication:</strong>Maintain an open-door policy for team members, stakeholders, and the executive sponsor to raise concerns or discuss project-related matters as needed.
             </li>
         </ul>
         <p><a href="https://github.com/cis-famu/capstone-project-design-exemplar/documents/Project+Charter.pdf" target="_blank">Download Signed Copy</a></p>
@@ -317,26 +327,64 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
 
 
 ### Strengths:
-1. Expertise in knowledge management: The organization possesses specialized knowledge and expertise in developing knowledge management tools specifically tailored for non-profit organizations like the Women's Issues Network of Belize. This expertise gives them a competitive edge in understanding the unique needs and challenges faced by non-profits in managing knowledge effectively.
-
-2. Niche market focus: The organization's focus on providing knowledge management tools exclusively for non-profit organizations, particularly those dealing with women's issues, allows them to target a specific and underserved market. This specialization can help them build a strong reputation and establish themselves as a trusted resource in the field.
-
-3. Strategic partnerships: Collaborations with other non-profit organizations, academic institutions, or industry experts can strengthen the organization's capabilities and broaden their network. These partnerships can facilitate knowledge sharing, research collaborations, and access to additional resources.
-
+1. Specialized Products: Pet-Med Inc offers premium probiotics exclusively designed for dogs and puppies, catering to a specific niche in the pet pharmaceutical market.
+2.Quality Assurance: All products are meticulously crafted in the USA, ensuring high-quality formulations backed by scientific research and compliance with regulatory standards.
+3. Wide Range of Products::Pet-Med Inc provides a diverse range of probiotic medications tailored for various health needs, promoting digestive health, immune support, and overall well-being.
+4. Professional Offers and Discounts: The company offers professional discounts and incentives, fostering strong relationships with veterinarians and pet supply stores.
+5. Innovative Technology: Pet-Med Inc boasts a high-quality, interactive website and user-friendly application, enhancing customer experience and accessibility.
 ### Weaknesses:
-1. Limited resources: As a non-profit organization, limited financial and human resources can pose a challenge in terms of developing and maintaining effective knowledge management tools. This constraint may impact their ability to innovate and keep up with technological advancements.
-
-2. Lack of awareness: The organization may face challenges in raising awareness about the importance and benefits of knowledge management tools among non-profit organizations. Limited marketing resources and outreach efforts could hinder their ability to reach their target audience effectively.
+1.Limited Market Reach: Despite offering premium products, Pet-Med Inc may face challenges in reaching a broader market due to competition from larger pharmaceutical companies with established international presence.
+2. Dependency on Suppliers: Reliance on suppliers for raw materials and manufacturing processes poses a risk of supply chain disruptions and quality control issues.
+3. Regulatory Compliance Burden: Compliance with federal and state regulations concerning pet pharmaceuticals requires continuous monitoring and adherence, adding complexity and potential costs to operations.
+4. Resource Constraints: As a sole proprietorship, Pet-Med Inc may face limitations in resources, personnel, and scalability, impacting its ability to expand and compete effectively in the market.
+5. Limited Brand Recognition: Building brand awareness and establishing credibility in the pet pharmaceutical industry may be challenging, particularly against larger, well-established competitors.
 
 ### Opportunities:
-1. Growing demand for knowledge management: As non-profit organizations recognize the value of efficient knowledge management, there is an increasing demand for specialized tools and solutions. The organization can capitalize on this trend by offering tailored knowledge management tools that address the specific needs of non-profits.
+1. Market Growth: The growing trend towards pet health and wellness presents opportunities for Pet-Med Inc to capitalize on increasing demand for specialized probiotic products among pet owners.
 
-2. Collaboration potential: The non-profit sector often emphasizes collaboration and knowledge sharing. By fostering partnerships and collaborations with other non-profit organizations, the organization can expand its reach, exchange best practices, and enhance its offerings based on shared expertise.
-
+2. Expansion into New Markets: Exploring new distribution channels, geographic markets, or product lines can help Pet-Med Inc expand its reach and tap into untapped customer segments.
+3. Collaborations and Partnerships: Forming strategic partnerships with veterinarians, pet clinics, or other pet care providers can enhance brand credibility and facilitate product distribution.
+4. Research and Development: Investing in research and development to create innovative pharmaceutical products for pets, backed by scientific evidence and expert collaboration, can differentiate Pet-Med Inc in the market.
 ### Threats:
-1. Competition from commercial vendors: The organization may face competition from commercial vendors offering general knowledge management tools. These vendors may have larger budgets, extensive resources, and established brand recognition, making it challenging to differentiate and compete effectively.
+1. Competition: Intense competition from larger pharmaceutical companies and emerging startups in the pet pharmaceutical industry poses a threat to Pet-Med Inc's market share and profitability.
+2. Economic Uncertainty: Economic downturns or fluctuations in consumer spending habits could impact discretionary spending on pet-related products, affecting Pet-Med Inc's sales and revenue.
+3. Supply Chain Disruptions: Disruptions in the supply chain, such as ingredient shortages, logistics delays, or manufacturing issues, could disrupt production and affect product availability.
+4. Regulatory Changes: Changes in regulations or compliance requirements for pet pharmaceuticals may necessitate costly adjustments to Pet-Med Inc's operations and product offerings.
+5. Negative Publicity or Product Recalls: Any incidents of product quality issues, safety concerns, or negative publicity could damage Pet-Med Inc's reputation and erode customer trust, leading to decreased sales and brand loyalty.
 
-2. Rapidly evolving technology: The fast-paced nature of technology can be a threat, as it requires continuous adaptation and investment to keep up with emerging trends and maintain compatibility with evolving systems. Failure to keep pace with technology advancements may render the organization's tools obsolete or less effective over time.
-    
+## Budget, Scope, & Time estimates
+
+### Scope & Time Estimate
+
+| Task                                         | Time Estimate (in hours) | Start Date  | End Date    |
+|----------------------------------------------|--------------------------|-------------|-------------|
+| **1. Project Management (PM)**               | 500                      | 10/01/2023  | 11/30/2023  |
+| - 1.1 Project Initiation and Planning         | 150                      | 10/01/2023  | 10/21/2023  |
+| - 1.2 Risk Management                         | 100                      | 10/22/2023  | 11/06/2023  |
+| - 1.3 Stakeholder Communication and Coordination| 125                     | 11/07/2023  | 11/27/2023  |
+| - 1.4 Project Tracking and Reporting           | 125                      | 11/28/2023  | 12/17/2023  |
+| **2.  Planning**     | 750                      | 12/18/2023  | 02/26/2024  |
+| - 2.1 Gather Requirements from Stakeholders    | 200                      | 12/18/2023  | 01/06/2024  |
+| - 2.2 Define System Functionalities and Features| 250                      | 01/07/2024  | 01/27/2024  |
+| - 2.3 Document Data Storage and Retrieval Needs| 300                      | 01/28/2024  | 02/26/2024  |
+| **3. System Design and Architecture**         | 1000                     | 02/27/2024  | 06/06/2024  |
+| - 3.1 Database Design and Development          | 350                      | 02/27/2024  | 04/25/2024  |
+| - 3.2 User Interface Design                    | 250                      | 04/26/2024  | 05/25/2024  |
+| - 3.3 Reporting Functionality Design            | 200                      | 05/26/2024  | 06/06/2024  |
+| - 3.4 Security and Compliance Planning          | 200                      | 05/26/2024  | 06/06/2024  |
+| **4. System Development**                     | 1800                     | 06/07/2024  | 12/10/2024  |
+| - 4.1 Front-end Development                    | 500                      | 06/07/2024  | 08/25/2024  |
+| - 4.2 Back-end Development                     | 600                      | 08/26/2024  | 10/25/2024  |
+| - 4.3 Database Implementation                   | 400                      | 10/26/2024  | 12/10/2024  |
+| **5. Deployment and Training**                 | 600                      | 12/11/2024  | 04/21/2025  |
+| - 5.1 Deployment Planning and Execution         | 200                      | 12/11/2024  | 02/28/2025  |
+| - 5.2 End-user Training                         | 400                      | 03/01/2025  | 04/21/2025  |
+| **6. Documentation and Transfer**              | 300                      | 04/22/2025  | 06/20/2025  |
+| - 6.1 System Documentation                       | 150                      | 04/22/2025  | 05/22/2025  |
+| - 6.2 Knowledge Transfer                         | 150                      | 05/23/2025  | 06/20/2025  |
+| **7. Post-Implementation**                      | 200                      | 06/21/2025  | 08/19/2025  |
+| - 7.1 Performance Monitoring and Optimization    | 100                      | 06/21/2025  | 07/20/2025  |
+| - 7.2 Issue Resolution and Support               | 100                      | 07/21/2025  | 08/19/2025  |
+
      
      
