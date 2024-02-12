@@ -354,80 +354,19 @@ In this milestone, we are formalizing our project idea by creating our project c
 ## Budget, Scope, & Time estimates
 
 ### Scope & Time Estimate
-|----------------------------------------------------------|
-|                 Project Timeline (2024)                  |
-|----------------------------------------------------------|
-| Phase                        | Start Date  | End Date    |
-|----------------------------------------------------------|
-| Inception                    | Jan 10, '24 | Feb 15, '24 |
-| - Define project objectives  |             |    20 hrs   |
-| - Identify stakeholders     |             |    10 hrs   |
-| - Form project team         |             |    15 hrs   |
-| - Conduct initial research  |             |    30 hrs   |
-| - Draft project proposal    |             |    25 hrs   |
-|----------------------------------------------------------|
-| Planning                     | Feb 16, '24 | Apr 30, '24 |
-| - Develop project plan      |             |    40 hrs   |
-| - Create project schedule   |             |    30 hrs   |
-| - Define resource needs     |             |    20 hrs   |
-| - Allocate budget           |             |    15 hrs   |
-| - Identify risks            |             |    25 hrs   |
-|----------------------------------------------------------|
-| Product Development          | May 1, '24  | Jul 15, '24 |
-| - Research probiotic strains|             |    40 hrs   |
-| - Formulate product         |             |    50 hrs   |
-| - Conduct product testing   |             |    60 hrs   |
-| - Finalize product design   |             |    30 hrs   |
-| - Document specifications   |             |    20 hrs   |
-|----------------------------------------------------------|
-| Application Enhancement      | Jul 16, '24 | Sep 30, '24 |
-| - Gather user feedback      |             |    25 hrs   |
-| - Identify areas for improvement |       |    20 hrs   |
-| - Develop new features      |             |    40 hrs   |
-| - Test and debug            |             |    35 hrs   |
-| - Implement enhancements    |             |    30 hrs   |
-|----------------------------------------------------------|
-| Marketing and Advertising    | Oct 1, '24  | Dec 15, '24 |
-| - Develop marketing strategy|             |    35 hrs   |
-| - Create promotional materials |         |    40 hrs   |
-| - Launch marketing campaigns|             |    50 hrs   |
-| - Monitor campaign performance |         |    30 hrs   |
-| - Analyze results           |             |    25 hrs   |
-|----------------------------------------------------------|
-| Distribution Expansion       | Jan 1, '25  | Mar 15, '25 |
-| - Identify new distribution channels |   |    20 hrs   |
-| - Contact potential partners|             |    30 hrs   |
-| - Negotiate agreements      |             |    35 hrs   |
-| - Finalize distribution plan|             |    25 hrs   |
-| - Implement distribution strategy |     |    40 hrs   |
-|----------------------------------------------------------|
-| Regulatory Compliance        | Mar 16, '25 | May 31, '25 |
-| - Review regulatory requirements|        |    30 hrs   |
-| - Update labeling and documentation |   |    25 hrs   |
-| - Obtain necessary approvals|             |    40 hrs   |
-| - Ensure compliance with regulations|    |    35 hrs   |
-| - Conduct internal audits   |             |    20 hrs   |
-|----------------------------------------------------------|
-| Employee Training            | Jun 1, '25  | Aug 15, '25 |
-| - Develop training materials|             |    35 hrs   |
-| - Conduct training sessions |             |    45 hrs   |
-| - Distribute employee handbook|          |    25 hrs   |
-| - Follow up on training     |             |    20 hrs   |
-|----------------------------------------------------------|
-| Strategic Growth Planning   | Aug 16, '25 | Nov 30, '25 |
-| - Analyze market trends     |             |    40 hrs   |
-| - Identify growth opportunities|         |    30 hrs   |
-| - Develop growth strategies |             |    50 hrs   |
-| - Finalize strategic plans  |             |    25 hrs   |
-| - Communicate plans to stakeholders|    |    20 hrs   |
-|----------------------------------------------------------|
-| Project Review and Closure  | Dec 1, '25  | Jan 31, '26 |
-| - Evaluate project outcomes |             |    30 hrs   |
-| - Document lessons learned  |             |    25 hrs   |
-| - Prepare final reports     |             |    35 hrs   |
-| - Conduct project review    |             |    20 hrs   |
-| - Handover deliverables     |             |    20 hrs   |
-|----------------------------------------------------------|
+| Task                                   | Start Date | End Date   | Duration |
+|----------------------------------------|------------|------------|----------|
+| Inception                              | Jan 10, '24| Feb 15, '24| 37 days  |
+| Planning                               | Feb 16, '24| Apr 30, '24| 75 days  |
+| Product Development                    | May 1, '24 | Jul 15, '24| 76 days  |
+| Application Enhancement                | Jul 16, '24| Sep 30, '24| 77 days  |
+| Marketing and Advertising              | Oct 1, '24 | Dec 15, '24| 76 days  |
+| Distribution Expansion                 | Jan 1, '25 | Mar 15, '25| 74 days  |
+| Regulatory Compliance                  | Mar 16, '25| May 31, '25| 77 days  |
+| Employee Training                      | Jun 1, '25 | Aug 15, '25| 76 days  |
+| Strategic Growth Planning             | Aug 16, '25| Nov 30, '25| 106 days |
+
+
 
 ## Budget Estimate 
 | Task                     | Labor (in hours) | Cost per Hour ($) | Total Labor Cost ($) | Non-Labor Cost ($) | Total Cost ($) | 15% Reserve ($) | Final Total Cost ($) |
