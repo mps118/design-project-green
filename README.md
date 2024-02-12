@@ -355,36 +355,93 @@ In this milestone, we are formalizing our project idea by creating our project c
 ## Budget, Scope, & Time estimates
 
 ### Scope & Time Estimate
+|----------------------------------------------------------|
+|                 Project Timeline (2024)                  |
+|----------------------------------------------------------|
+| Phase                        | Start Date  | End Date    |
+|----------------------------------------------------------|
+| Inception                    | Jan 10, '24 | Feb 15, '24 |
+| - Define project objectives  |             |    20 hrs   |
+| - Identify stakeholders     |             |    10 hrs   |
+| - Form project team         |             |    15 hrs   |
+| - Conduct initial research  |             |    30 hrs   |
+| - Draft project proposal    |             |    25 hrs   |
+|----------------------------------------------------------|
+| Planning                     | Feb 16, '24 | Apr 30, '24 |
+| - Develop project plan      |             |    40 hrs   |
+| - Create project schedule   |             |    30 hrs   |
+| - Define resource needs     |             |    20 hrs   |
+| - Allocate budget           |             |    15 hrs   |
+| - Identify risks            |             |    25 hrs   |
+|----------------------------------------------------------|
+| Product Development          | May 1, '24  | Jul 15, '24 |
+| - Research probiotic strains|             |    40 hrs   |
+| - Formulate product         |             |    50 hrs   |
+| - Conduct product testing   |             |    60 hrs   |
+| - Finalize product design   |             |    30 hrs   |
+| - Document specifications   |             |    20 hrs   |
+|----------------------------------------------------------|
+| Application Enhancement      | Jul 16, '24 | Sep 30, '24 |
+| - Gather user feedback      |             |    25 hrs   |
+| - Identify areas for improvement |       |    20 hrs   |
+| - Develop new features      |             |    40 hrs   |
+| - Test and debug            |             |    35 hrs   |
+| - Implement enhancements    |             |    30 hrs   |
+|----------------------------------------------------------|
+| Marketing and Advertising    | Oct 1, '24  | Dec 15, '24 |
+| - Develop marketing strategy|             |    35 hrs   |
+| - Create promotional materials |         |    40 hrs   |
+| - Launch marketing campaigns|             |    50 hrs   |
+| - Monitor campaign performance |         |    30 hrs   |
+| - Analyze results           |             |    25 hrs   |
+|----------------------------------------------------------|
+| Distribution Expansion       | Jan 1, '25  | Mar 15, '25 |
+| - Identify new distribution channels |   |    20 hrs   |
+| - Contact potential partners|             |    30 hrs   |
+| - Negotiate agreements      |             |    35 hrs   |
+| - Finalize distribution plan|             |    25 hrs   |
+| - Implement distribution strategy |     |    40 hrs   |
+|----------------------------------------------------------|
+| Regulatory Compliance        | Mar 16, '25 | May 31, '25 |
+| - Review regulatory requirements|        |    30 hrs   |
+| - Update labeling and documentation |   |    25 hrs   |
+| - Obtain necessary approvals|             |    40 hrs   |
+| - Ensure compliance with regulations|    |    35 hrs   |
+| - Conduct internal audits   |             |    20 hrs   |
+|----------------------------------------------------------|
+| Employee Training            | Jun 1, '25  | Aug 15, '25 |
+| - Develop training materials|             |    35 hrs   |
+| - Conduct training sessions |             |    45 hrs   |
+| - Distribute employee handbook|          |    25 hrs   |
+| - Follow up on training     |             |    20 hrs   |
+|----------------------------------------------------------|
+| Strategic Growth Planning   | Aug 16, '25 | Nov 30, '25 |
+| - Analyze market trends     |             |    40 hrs   |
+| - Identify growth opportunities|         |    30 hrs   |
+| - Develop growth strategies |             |    50 hrs   |
+| - Finalize strategic plans  |             |    25 hrs   |
+| - Communicate plans to stakeholders|    |    20 hrs   |
+|----------------------------------------------------------|
+| Project Review and Closure  | Dec 1, '25  | Jan 31, '26 |
+| - Evaluate project outcomes |             |    30 hrs   |
+| - Document lessons learned  |             |    25 hrs   |
+| - Prepare final reports     |             |    35 hrs   |
+| - Conduct project review    |             |    20 hrs   |
+| - Handover deliverables     |             |    20 hrs   |
+|----------------------------------------------------------|
 
-| Task                                         | Time Estimate (in hours) | Start Date  | End Date    |
-|----------------------------------------------|--------------------------|-------------|-------------|
-| **1. Project Management (PM)**               | 500                      | 10/01/2023  | 11/30/2023  |
-| - 1.1 Project Initiation and Planning         | 150                      | 10/01/2023  | 10/21/2023  |
-| - 1.2 Risk Management                         | 100                      | 10/22/2023  | 11/06/2023  |
-| - 1.3 Stakeholder Communication and Coordination| 125                     | 11/07/2023  | 11/27/2023  |
-| - 1.4 Project Tracking and Reporting           | 125                      | 11/28/2023  | 12/17/2023  |
-| **2.  Planning**     | 750                      | 12/18/2023  | 02/26/2024  |
-| - 2.1 Gather Requirements from Stakeholders    | 200                      | 12/18/2023  | 01/06/2024  |
-| - 2.2 Define System Functionalities and Features| 250                      | 01/07/2024  | 01/27/2024  |
-| - 2.3 Document Data Storage and Retrieval Needs| 300                      | 01/28/2024  | 02/26/2024  |
-| **3. System Design and Architecture**         | 1000                     | 02/27/2024  | 06/06/2024  |
-| - 3.1 Database Design and Development          | 350                      | 02/27/2024  | 04/25/2024  |
-| - 3.2 User Interface Design                    | 250                      | 04/26/2024  | 05/25/2024  |
-| - 3.3 Reporting Functionality Design            | 200                      | 05/26/2024  | 06/06/2024  |
-| - 3.4 Security and Compliance Planning          | 200                      | 05/26/2024  | 06/06/2024  |
-| **4. System Development**                     | 1800                     | 06/07/2024  | 12/10/2024  |
-| - 4.1 Front-end Development                    | 500                      | 06/07/2024  | 08/25/2024  |
-| - 4.2 Back-end Development                     | 600                      | 08/26/2024  | 10/25/2024  |
-| - 4.3 Database Implementation                   | 400                      | 10/26/2024  | 12/10/2024  |
-| **5. Deployment and Training**                 | 600                      | 12/11/2024  | 04/21/2025  |
-| - 5.1 Deployment Planning and Execution         | 200                      | 12/11/2024  | 02/28/2025  |
-| - 5.2 End-user Training                         | 400                      | 03/01/2025  | 04/21/2025  |
-| **6. Documentation and Transfer**              | 300                      | 04/22/2025  | 06/20/2025  |
-| - 6.1 System Documentation                       | 150                      | 04/22/2025  | 05/22/2025  |
-| - 6.2 Knowledge Transfer                         | 150                      | 05/23/2025  | 06/20/2025  |
-| **7. Post-Implementation**                      | 200                      | 06/21/2025  | 08/19/2025  |
-| - 7.1 Performance Monitoring and Optimization    | 100                      | 06/21/2025  | 07/20/2025  |
-| - 7.2 Issue Resolution and Support               | 100                      | 07/21/2025  | 08/19/2025  |
-
-     
-     
+## Budget Estimate 
+| Task                     | Labor (in hours) | Cost per Hour ($) | Total Labor Cost ($) | Non-Labor Cost ($) | Total Cost ($) | 15% Reserve ($) | Final Total Cost ($) |
+|--------------------------|------------------|-------------------|----------------------|--------------------|----------------|-----------------|----------------------|
+| Inception                |       100        |         50        |         5000         |        1000        |      6000      |       900       |         6900         |
+| Planning                 |       200        |         50        |        10000         |        2000        |     12000      |      1800       |        13800         |
+| Product Development      |       300        |         50        |        15000         |        3000        |     18000      |      2700       |        20700         |
+| Application Enhancement  |       150        |         50        |         7500         |        1500        |      9000      |      1350       |        10350         |
+| Marketing and Advertising|       250        |         50        |        12500         |        2500        |     15000      |      2250       |        17250         |
+| Distribution Expansion   |       200        |         50        |        10000         |        2000        |     12000      |      1800       |        13800         |
+| Regulatory Compliance    |       150        |         50        |         7500         |        1500        |      9000      |      1350       |        10350         |
+| Employee Training        |       120        |         50        |         6000         |        1200        |      7200      |      1080       |         8280         |
+| Strategic Growth Planning|       180        |         50        |         9000         |        1800        |     10800      |      1620       |        12420         |
+| Project Review and Closure|      100        |         50        |         5000         |        1000        |      6000      |       900       |         6900         |
+## Team Contract
+[Download Contract](https://github.com/cis-famu/capstone-project-design-exemplar/documents/Team+Contract.pdf)
