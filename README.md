@@ -192,8 +192,7 @@ In this milestone, we are formalizing our project idea by creating our project c
                 <li>Distribution Expansion (01/1/2025 - 03/15/2025)</li>
                 <li>Strategic Growth Planning (08/16/2025 - 11/30/2025)</li>
                 <li>Strategic Growth Planning (12/1/2025 - 1/30/2026)</li>
-              
-            </ul>
+              </ul>
         </td>
     </tr>
     <tr>
