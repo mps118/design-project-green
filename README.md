@@ -383,4 +383,9 @@ In this milestone, we are formalizing our project idea by creating our project c
 | Project Review and Closure|      100        |         50        |         5000         |        1000        |      6000      |       900       |         6900         |
 ## Team Contract
 [Download Contract][Team Contract.docx](https://github.com/cis-famu/design-project-green/files/14235036/Team.Contract.docx)
+## References
+1. SAMPLE PROJECT SCOPE AND BUDGET TABLES For Explore the Coast Program Grant Application 2021. (n.d.). Retrieved February 12, 2024, from https://scc.ca.gov/files/2021/01/FINAL-Sample-Scope-and-Budget-Tables_ETC-2021.pdf
+
+‌
+
 
