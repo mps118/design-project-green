@@ -382,4 +382,5 @@ In this milestone, we are formalizing our project idea by creating our project c
 | Strategic Growth Planning|       180        |         50        |         9000         |        1800        |     10800      |      1620       |        12420         |
 | Project Review and Closure|      100        |         50        |         5000         |        1000        |      6000      |       900       |         6900         |
 ## Team Contract
-[Download Contract](https://github.com/cis-famu/capstone-project-design-exemplar/documents/Team+Contract.pdf)
+[Download Contract][Team Contract.docx](https://github.com/cis-famu/design-project-green/files/14235036/Team.Contract.docx)
+
