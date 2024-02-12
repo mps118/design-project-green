@@ -293,13 +293,13 @@ In this milestone, we are formalizing our project idea by creating our project c
         <td colspan="2" >Department Sponsor</td>
         <td>Teja Palance</td>
         <td><i>Signed in document</i></td>
-        <td>10/01/2023</td> 
+        <td>2/11/2024</td> 
     </tr>
     <tr>
         <td colspan="2" >Project Manager</td>
         <td>Vanessa Coote</td>
         <td><i></i></td>
-        <td>10/01/2023</td>  
+        <td>2/11/2024</td>  
     </tr>
     <tr>
         <td colspan="5"  style="font-weight:bold; background-color:#F4811F">7.  Notes</td>  
