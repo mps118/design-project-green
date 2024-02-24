@@ -431,7 +431,7 @@ In this milestone, we are formalizing our project idea by creating our project c
 | 1.7.3    | Implementaiton of Growth Strategies | n | n | n | 1.1,1.7|
 
 ## Gantt Chart & Network Diagram
-![gantt chart](/img/wbs(1).png)
+![gantt chart] 
 
 [Downloadable Project Management File](/documents/WIN%20Belize%20Project.mpp)
 
