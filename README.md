@@ -332,7 +332,7 @@ In this milestone, we are formalizing our project idea by creating our project c
 4. Professional Offers and Discounts: The company offers professional discounts and incentives, fostering strong relationships with veterinarians and pet supply stores.
 5. Innovative Technology: Pet-Med Inc boasts a high-quality, interactive website and user-friendly application, enhancing customer experience and accessibility.
 ### Weaknesses:
-1.Limited Market Reach: Despite offering premium products, Pet-Med Inc may face challenges in reaching a broader market due to competition from larger pharmaceutical companies with established international presence.
+1. Limited Market Reach: Despite offering premium products, Pet-Med Inc may face challenges in reaching a broader market due to competition from larger pharmaceutical companies with established international presence.
 2. Dependency on Suppliers: Reliance on suppliers for raw materials and manufacturing processes poses a risk of supply chain disruptions and quality control issues.
 3. Regulatory Compliance Burden: Compliance with federal and state regulations concerning pet pharmaceuticals requires continuous monitoring and adherence, adding complexity and potential costs to operations.
 4. Resource Constraints: As a sole proprietorship, Pet-Med Inc may face limitations in resources, personnel, and scalability, impacting its ability to expand and compete effectively in the market.
