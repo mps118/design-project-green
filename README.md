@@ -437,7 +437,7 @@ In this milestone, we are formalizing our project idea by creating our project c
 ## Gantt Chart & Network Diagram
 ![gantt chart] 
 
-[Downloadable Project Management File](/documents/WIN%20Belize%20Project.mpp)
+[Downloadable Project Management File]
 
 ## Requirements
 
