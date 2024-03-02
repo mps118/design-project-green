@@ -407,33 +407,32 @@ In this milestone, we are formalizing our project idea by creating our project c
 | 1       | Inception | 37 | 1/10/2024 | 2/15/2024 | - |
 | 1.1     | Planning | 75| 2/16/2024 | 4/30/2024 | 1 |
 | 1.2     |Develop New Probiotic Formulations | 76 | 5/01/2024 | 7/15/2024 | 1.1 |
-| 1.2.1    | Research and Identify Health Needs | n | 5/02/2024 | 7/15/2024 | 1.2 |
-| 1.2.2    | Formulation Development | n |5/4/2024  | 7/15/2024  | 1.2 |
-| 1.2.3   | Testing and Validation | n | 5/4/2024 | 7/4/2024 | 1.2 |
+| 1.2.1    | Research and Identify Health Needs | 75 | 5/02/2024 | 7/15/2024 | 1.2 |
+| 1.2.2    | Formulation Development | 73 |5/4/2024  | 7/15/2024  | 1.2 |
+| 1.2.3   | Testing and Validation | 62 | 5/4/2024 | 7/4/2024 | 1.2 |
 | 1.3   | Enhance Pet-Med Inc Application | 77 | 7/16/2024 | 09/30/2024 | 1.1 |
-| 1.3.1   | User Exeperience Analysis | n | n | n| 1.3, 1.1 |
-| 1.3.2   | Navigation Improvements | n | n | n| 1.3, 1.1 |
-| 1.3.3   | Product Search Enhancements | n | n | n | 1.3, 1.1 |
-| 1.3.4   | Checkout Process Optimization | n | n | n | 1.3, 1.1 |
+| 1.3.1   | User Exeperience Analysis | 32 | 7/16/2024 | 8/16/2024| 1.3, 1.1 |
+| 1.3.2   | Navigation Improvements | 32 | 8/16/2024 | 9/16/2024| 1.3, 1.1 |
+| 1.3.3   | Product Search Enhancements | 37 | 7/16/2024 | 8/21/2024 | 1.3, 1.1 |/
+| 1.3.4   | Checkout Process Optimization | 40 | 8/22/2024 | 9/30/2024 | 1.3, 1.1 |
 | 1.4     | Marketing and Advertising Campaigns | 113 | 08/24/2024 | 12/15/2024 | 1.1 |
-| 1.4.1     | Campain Planning and Strategy | n | 8/24/2024 | 10/24/2024 | 1.1,1.4 |
-| 1.4.2  | Social Media Marketing | n | 8/28/2024 | 12/15/2024 | 1.1,1.4 |
+| 1.4.1     | Campain Planning and Strategy | 61 | 8/24/2024 | 10/24/2024 | 1.1,1.4 |
+| 1.4.2  | Social Media Marketing | 110 | 8/28/2024 | 12/15/2024 | 1.1,1.4 |
 | 1.5 | Quality Control Implementation| 74 | 10/18/2024 | 12/30/2024| 1.1 |
-| 1.5.1  | Implementation of QC Measures| n | 10/18/2024 | 12/30/2024 | 1.1, 1.5 |
-| 1.5.2  | Compliance Monitoring | n |10/31/2024 | 11/31/2024 | 1.1,1.5 |
+| 1.5.1  | Implementation of QC Measures| 74 | 10/18/2024 | 12/30/2024 | 1.1, 1.5 |
+| 1.5.2  | Compliance Monitoring | 61 |10/31/2024 | 11/31/2024 | 1.1,1.5 |
 | 1.6 | Distribution Expanision | 90 | 01/01/2025 | 03/31/2025 | 1.1 |
-| 1.6.2  | Market Analysis | n | 01/01/2025 | 02/01/2025 | 1.1,1.6 |
-| 1.6.3   | Logistics Planning | n | 01/10/2025 | 02/05/2025 | 1.1,1.6 |
-| 1.6.4   | Implementation | n | 02/15/2025 | 3/31/2025 | 1.1,1.6 |
-
+| 1.6.2  | Market Analysis | 31 | 01/01/2025 | 02/01/2025 | 1.1,1.6 |
+| 1.6.3   | Logistics Planning | 27 | 01/10/2025 | 02/05/2025 | 1.1,1.6 |
+| 1.6.4   | Implementation | 44 | 02/15/2025 | 3/31/2025 | 1.1,1.6 |
 | 1.7  | Employee Training | 106 | 05/02/2025 | 08/15/2025 | 1.1|
-| 1.7.1 |Training Schedule Planning | n | 05/02/2025 | 05/31/2025 | 1.1,1.7 |
-| 1.7.2 |  Curriculum Development | n | 05/10/2025 | 07/18/2025| 1.1,1.7 |
-| 1.7.3 | Documentation and Reporting |  | 05/02/202 | 08/15/2025 | 1.1,1.7|
+| 1.7.1 |Training Schedule Planning | 30 | 05/02/2025 | 05/31/2025 | 1.1,1.7 |
+| 1.7.2 |  Curriculum Development | 70 | 05/10/2025 | 07/18/2025| 1.1,1.7 |
+| 1.7.3 | Documentation and Reporting | 106 | 05/02/202 | 08/15/2025 | 1.1,1.7|
 | 1.8  | Strategic Growth Planning | 77 | 08/16/2025 | 10/31/2025 | 1.1|
-| 1.8.1   | Growth Analysis | n | 08/20/2025 | 09/20/2025 | 1.1,1.7 |
-| 1.8.2      | Strategic Planning | n | 08/16/2025 | 09/16/2025| 1.1,1.7 |
-| 1.8.3    | Implementaiton of Growth Strategies | n | 09/17/2025 | 10/31/2025 | 1.1,1.7|
+| 1.8.1   | Growth Analysis | 30 | 08/20/2025 | 09/20/2025 | 1.1,1.7 |
+| 1.8.2      | Strategic Planning | 30 | 08/16/2025 | 09/16/2025| 1.1,1.7 |
+| 1.8.3    | Implementaiton of Growth Strategies | 45 | 09/17/2025 | 10/31/2025 | 1.1,1.7|
 
 ## Gantt Chart & Network Diagram
 ![gantt chart] 
