@@ -535,10 +535,70 @@ No special cultural and political requirements are expected.
 
 
 ## Use Cases
+Use Case: Find Treatment for Dog's Health Issue
+Use Case Number: UC-2
+
+Use Case Name: Find Treatment for Dog's Health Issue
+
+Description: The Pet-Med app helps pet owners identify their dog's health issues based on symptoms and find suitable treatment options. It provides expert-vetted information and collaborates with veterinarians to offer personalized treatment solutions. The app also includes features like medication reminders and symptom tracking.
+
+Primary Actor: Pet Owner
+
+Secondary Actors: Veterinarian
+
+Priority: High
+
+Type: External
+
+Trigger: Pet owner notices health issues,symptoms or problems with or in their dog.
+
+Major Inputs:	Source
+Symptoms described by pet owner	Pet Owner input through the app
+Dog's health history	Pet Owner's account information
+Major Outputs:
+
+Major Outputs	Destination
+List of potential health issues	App interface
+Recommended treatment options	App interface
+Medication reminders and symptom tracking setup	Pet Owner's app account
+Basic Flow:
+
+Step	Action	Actor
+1	Pet owner logs into the Pet-Med app and navigates to the symptom checker feature.	Pet Owner
+2	Pet owner inputs the symptoms observed in their dog.	Pet Owner
+3	The system analyzes the input symptoms and matches them with potential health issues from the database.	System
+4	The system presents a list of probable health issues and recommended treatments based on the analysis.	System
+5	For additional clarity or severe cases, the pet owner opts to consult a veterinarian via the app.	Pet Owner (optional)
+6	The pet owner sets up medication reminders and symptom tracking as advised by the treatment plan.	Pet Owner
+7	If applicable, the pet owner proceeds to purchase the recommended medication through the app.	Pet Owner
+Alternative Flows:
+
+A1: The Pet-Med app assists pet owners in identifying their dog's health issues from symptoms and finding appropriate treatments. It offers expert advice, works with veterinarians for tailored solutions, and includes useful features like medication reminders and symptom tracking
+
+A2: If the pet owner disagrees with the app's suggested treatment, they can request a consultation with a veterinarian directly through the app.
+
+The pet owner has a clear plan for addressing their dog's health issue.
+The dog receives the necessary treatment, improving its health condition.
+The pet owner can monitor their dog's health through the app's tracking and reminder abilities.
+Exceptions:
+
+Internet problems can slow down or prevent analysis and suggestions.
+Limited information can lead to wrong or innapropriate health issue identification
+Special Requirements:
+
+Real-time symptom analysis.
+Secure data handling for pet and owner information.
+Frequency of Use:
+
+
+This use case happens whenever pet owners notice health issues or symptoms in their dogs.
+This format outlines the flow of activities from the pet owner's perspective in using the Pet-Med app to treat their dog's health issues.
+
 
 
 
 ## Use Cases Diagram
+![image](https://github.com/cis-famu/design-project-green/assets/119551926/6f226bd4-db20-4aa6-b7ac-f8afb4c4e063)
 
 ## Research on other systems
 
