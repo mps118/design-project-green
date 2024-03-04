@@ -502,8 +502,36 @@ art]
 ## Requirements
 
 ### Functional Requirements:
+1. Search and Browse
+1.1 The system will allow customers to browse probiotics for their dogs
+1.2 The system will allow customers to search for Probiotic choices by breed, conditions and problems their animal is facing aswell
+as symptom tracking and medication reminders.
+1.3 The system will allow users to interact with connect doctor offices
+2. Purchase
+2.1 The system will enable the customer to create a customer account (if desired) to store customer data and
+payment information.
+2.2 The system will enable the customer to see
+2.3 The system will collect and verify payment information. Once payment is verified, the music selection download
+process will begin.
+3. Promote
+3.1 The system will expand distribution channels to 3 new pet store/retail outlets within 1 year
+3.2 The marketing department can create promotions and specials on the Website.
+3.3 Participate in 4 pet events throughout the next quarter to promote Pet-Med Inc Products
+
 
 ### Non-Functional Requirements:
+1. Operational
+1.1 The system will provide accurate data about the symptoms and probiotics aswell as dog breeds
+1.2 The system will run on mobile devices
+1.3 The system will have a log to capture information on the user before searches
+2. Performance
+2.1 The system will have an area where they can send out questions they have or concerns about the application
+2.2
+3. Security
+3.1 Customer information will be secured.
+3.2 Payment information will be encrypted and secured.
+4. Cultural and political
+No special cultural and political requirements are expected.
 
 
 ## Use Cases
