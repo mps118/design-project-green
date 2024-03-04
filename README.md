@@ -28,65 +28,7 @@ In this milestone, we are formalizing our project idea by creating our project c
 3. [Budget, Score, & Time Estimates](#budget-scope--time-estimates)
 4. [Team Contract](#team-contract)
 5. [References](#references)
-6. [Team Meeting](#Team Meeting)
 
-
-## Team Meeting
-[Project Meeting Guidelines.docx](https://github.com/cis-famu/design-project-green/files/14476388/Project.Meeting.Guidelines.docx)
-
-
-Meeting Minutes
-
-Date: Tuesday, February 27, 2024 Time: 7:00 PM - 8:00 PM Location: Zoom (Video Conference)
-
-Attendees:
-
-Robert Beautelus (Project Manager) 
-Miles Sharpton (Development Team)
-Jeremy Metellus (Design Team)
-Thurgood Watson (Management Team)
-Agenda:
-
-Review of Milestone 1 and Project Charter 
-Discussion on Milestone 2 tasks and schedule
-Work Breakdown Structure (WBS) and Gantt Chart overview
-Requirements and Use Cases
-Research on other systems and API descriptions
-Next steps and action items
-Minutes:
-
-Review of Milestone 1 and Project Charter:
-
-The team went through the Project Charter, covering the project purpose, objectives, deliverables, and milestones. 
-Confirmation that the Executive and Department Sponsors have signed off on the charter.
-Discussion on Milestone 2 tasks and schedule:
-
-Milestone 2 tasks and schedule were thoroughly discussed, and the team reached a consensus on the proposed timeline. 
-Emphasis on the significance of meeting deadlines and fostering collaboration across teams.
-Work Breakdown Structure (WBS) and Gantt Chart overview:
-
-Robert presented the WBS and Gantt Chart for Milestone 2, providing details on tasks, start and end dates, and dependencies. 
-Team members were encouraged to communicate any potential bottlenecks or challenges.
-Requirements and Use Cases:
-
-The team engaged in a discussion about functional and non-functional requirements for the project. 
-Outlined use cases to ensure the application effectively meets user needs.
-Research on other systems and API descriptions:
-
-Research findings on relevant APIs, including the Veterinary Drug Database API, E-commerce Platform APIs, Payment Gateway APIs, and Shipping and Logistics APIs, were presented. 
-The team discussed the potential benefits of integrating these APIs into the Pet-Med application.
-Next steps and action items:
-
-Team members were assigned specific tasks based on their roles and responsibilities. 
-Communication channels were reiterated, emphasizing the importance of regular updates and collaboration.
-A follow-up meeting was scheduled for the next week.
-Action Items:
-
-Robert: Coordinate with the development team to start the Inception phase. 
-Miles and Jeremy: Begin the planning phase, focusing on the development of new probiotic formulations and application enhancements.
-Thurgood: Initiate market analysis for distribution expansion.
-All Team Members: Research and gather more information on the identified APIs for integration.
-The meeting concluded with a summary of action items and a reminder of the next meeting scheduled for [Next Meeting Date].
 
 ## Project Charter
 
@@ -502,40 +444,69 @@ art]
 ## Requirements
 
 ### Functional Requirements:
-1. Search and Browse
-1.1 The system will allow customers to browse probiotics for their dogs
-1.2 The system will allow customers to search for Probiotic choices by breed, conditions and problems their animal is facing aswell
-as symptom tracking and medication reminders.
-1.3 The system will allow users to interact with connect doctor offices
-2. Purchase
-2.1 The system will enable the customer to create a customer account (if desired) to store customer data and
-payment information.
-2.2 The system will enable the customer to see
-2.3 The system will collect and verify payment information. Once payment is verified, the music selection download
-process will begin.
-3. Promote
-3.1 The system will expand distribution channels to 3 new pet store/retail outlets within 1 year
-3.2 The marketing department can create promotions and specials on the Website.
-3.3 Participate in 4 pet events throughout the next quarter to promote Pet-Med Inc Products
-
 
 ### Non-Functional Requirements:
-1. Operational
-1.1 The system will provide accurate data about the symptoms and probiotics aswell as dog breeds
-1.2 The system will run on mobile devices
-1.3 The system will have a log to capture information on the user before searches
-2. Performance
-2.1 The system will have an area where they can send out questions they have or concerns about the application
-2.2
-3. Security
-3.1 Customer information will be secured.
-3.2 Payment information will be encrypted and secured.
-4. Cultural and political
-No special cultural and political requirements are expected.
 
 
 ## Use Cases
+Use Case: Find Treatment for Dog's Health Issue
+Use Case Number: UC-2
 
+Use Case Name: Find Treatment for Dog's Health Issue
+
+Description: The Pet-Med app helps pet owners identify their dog's health issues based on symptoms and find suitable treatment options. It provides expert-vetted information and collaborates with veterinarians to offer personalized treatment solutions. The app also includes features like medication reminders and symptom tracking.
+
+Primary Actor: Pet Owner
+
+Secondary Actors: Veterinarian
+
+Priority: High
+
+Type: External
+
+Trigger: Pet owner notices health issues,symptoms or problems with or in their dog.
+
+Major Inputs:	Source
+Symptoms described by pet owner	Pet Owner input through the app
+Dog's health history	Pet Owner's account information
+Major Outputs:
+
+Major Outputs	Destination
+List of potential health issues	App interface
+Recommended treatment options	App interface
+Medication reminders and symptom tracking setup	Pet Owner's app account
+Basic Flow:
+
+Step	Action	Actor
+1	Pet owner logs into the Pet-Med app and navigates to the symptom checker feature.	Pet Owner
+2	Pet owner inputs the symptoms observed in their dog.	Pet Owner
+3	The system analyzes the input symptoms and matches them with potential health issues from the database.	System
+4	The system presents a list of probable health issues and recommended treatments based on the analysis.	System
+5	For additional clarity or severe cases, the pet owner opts to consult a veterinarian via the app.	Pet Owner (optional)
+6	The pet owner sets up medication reminders and symptom tracking as advised by the treatment plan.	Pet Owner
+7	If applicable, the pet owner proceeds to purchase the recommended medication through the app.	Pet Owner
+Alternative Flows:
+
+A1: The Pet-Med app assists pet owners in identifying their dog's health issues from symptoms and finding appropriate treatments. It offers expert advice, works with veterinarians for tailored solutions, and includes useful features like medication reminders and symptom tracking
+
+A2: If the pet owner disagrees with the app's suggested treatment, they can request a consultation with a veterinarian directly through the app.
+
+The pet owner has a clear plan for addressing their dog's health issue.
+The dog receives the necessary treatment, improving its health condition.
+The pet owner can monitor their dog's health through the app's tracking and reminder abilities.
+Exceptions:
+
+Internet problems can slow down or prevent analysis and suggestions.
+Limited information can lead to wrong or innapropriate health issue identification
+Special Requirements:
+
+Real-time symptom analysis.
+Secure data handling for pet and owner information.
+Frequency of Use:
+
+
+This use case happens whenever pet owners notice health issues or symptoms in their dogs.
+This format outlines the flow of activities from the pet owner's perspective in using the Pet-Med app to treat their dog's health issues.
 
 
 ## Use Cases Diagram
