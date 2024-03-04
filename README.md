@@ -435,7 +435,9 @@ In this milestone, we are formalizing our project idea by creating our project c
 | 1.8.3    | Implementaiton of Growth Strategies | 45 | 09/17/2025 | 10/31/2025 | 1.1,1.7|
 
 ## Gantt Chart & Network Diagram
-![gantt chart] 
+![gantt ch![Screenshot 2024-03-03 203830](https://github.com/cis-famu/design-project-green/assets/103546272/46a0a3a1-e60c-4c41-901b-565680c60c08)
+art] 
+![Screenshot 2024-03-03 204008](https://github.com/cis-famu/design-project-green/assets/103546272/25c32253-5b1a-4431-a12a-4745be8ce1e8)
 
 [Downloadable Project Management File]
 
