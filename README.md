@@ -455,6 +455,10 @@ In this milestone, we are formalizing our project idea by creating our project c
 ## Research on other systems
 
 ## API Descriptions
+1. **Veterinary Drug Database API** : Integrating with a comprehnesive database of veterinary drugs can provide accurate information about differnet medications, their uses, dosages, side effects, and more.
+2. **E-commerce Platform APIs**: If we sell our products online, integrating with popular e-commerce platforms such as Shopify, WooCommerce, or Magento can streamline inventory management, order processing, and payment transactions.
+3. **Payment Gateway APIs**: Integrating with payment gateway APIs such as PayPal, Stripe, or Square can facilitate secure online transactions for purchasing pet medications and other products.
+4. **Shipping and Logistics APIs**:  Integrating with shipping and logistics APIs like UPS, FedEx, or USPS can automate shipping calculations, generate shipping labels, and provide real-time tracking information for orders.
 
 ‌
 
