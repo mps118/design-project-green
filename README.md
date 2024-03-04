@@ -28,7 +28,65 @@ In this milestone, we are formalizing our project idea by creating our project c
 3. [Budget, Score, & Time Estimates](#budget-scope--time-estimates)
 4. [Team Contract](#team-contract)
 5. [References](#references)
+6. [Team Meeting](#Team Meeting)
 
+
+## Team Meeting
+[Project Meeting Guidelines.docx](https://github.com/cis-famu/design-project-green/files/14476388/Project.Meeting.Guidelines.docx)
+
+
+Meeting Minutes
+
+Date: Tuesday, February 27, 2024 Time: 7:00 PM - 8:00 PM Location: Zoom (Video Conference)
+
+Attendees:
+
+Robert Beautelus (Project Manager) 
+Miles Sharpton (Development Team)
+Jeremy Metellus (Design Team)
+Thurgood Watson (Management Team)
+Agenda:
+
+Review of Milestone 1 and Project Charter 
+Discussion on Milestone 2 tasks and schedule
+Work Breakdown Structure (WBS) and Gantt Chart overview
+Requirements and Use Cases
+Research on other systems and API descriptions
+Next steps and action items
+Minutes:
+
+Review of Milestone 1 and Project Charter:
+
+The team went through the Project Charter, covering the project purpose, objectives, deliverables, and milestones. 
+Confirmation that the Executive and Department Sponsors have signed off on the charter.
+Discussion on Milestone 2 tasks and schedule:
+
+Milestone 2 tasks and schedule were thoroughly discussed, and the team reached a consensus on the proposed timeline. 
+Emphasis on the significance of meeting deadlines and fostering collaboration across teams.
+Work Breakdown Structure (WBS) and Gantt Chart overview:
+
+Robert presented the WBS and Gantt Chart for Milestone 2, providing details on tasks, start and end dates, and dependencies. 
+Team members were encouraged to communicate any potential bottlenecks or challenges.
+Requirements and Use Cases:
+
+The team engaged in a discussion about functional and non-functional requirements for the project. 
+Outlined use cases to ensure the application effectively meets user needs.
+Research on other systems and API descriptions:
+
+Research findings on relevant APIs, including the Veterinary Drug Database API, E-commerce Platform APIs, Payment Gateway APIs, and Shipping and Logistics APIs, were presented. 
+The team discussed the potential benefits of integrating these APIs into the Pet-Med application.
+Next steps and action items:
+
+Team members were assigned specific tasks based on their roles and responsibilities. 
+Communication channels were reiterated, emphasizing the importance of regular updates and collaboration.
+A follow-up meeting was scheduled for the next week.
+Action Items:
+
+Robert: Coordinate with the development team to start the Inception phase. 
+Miles and Jeremy: Begin the planning phase, focusing on the development of new probiotic formulations and application enhancements.
+Thurgood: Initiate market analysis for distribution expansion.
+All Team Members: Research and gather more information on the identified APIs for integration.
+The meeting concluded with a summary of action items and a reminder of the next meeting scheduled for [Next Meeting Date].
 
 ## Project Charter
 
